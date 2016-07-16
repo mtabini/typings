@@ -1,0 +1,2 @@
+# typings
+Declarations for TypeScript
